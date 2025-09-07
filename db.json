@@ -68,40 +68,5 @@
     "location": "Malappuram, Kerala",
     "contact": "+91 93456 66778",
     "image": "https://randomuser.me/api/portraits/men/29.jpg"
-  },
-  {
-    "id": 11,
-    "name": "Divya Menon",
-    "location": "Idukki, Kerala",
-    "contact": "+91 91234 56789",
-    "image": "https://randomuser.me/api/portraits/women/46.jpg"
-  },
-  {
-    "id": 12,
-    "name": "Vikram Chauhan",
-    "location": "Kottayam, Kerala",
-    "contact": "+91 90123 45678",
-    "image": "https://randomuser.me/api/portraits/men/37.jpg"
-  },
-  {
-    "id": 13,
-    "name": "Meera Kapoor",
-    "location": "Wayanad, Kerala",
-    "contact": "+91 93456 12345",
-    "image": "https://randomuser.me/api/portraits/women/68.jpg"
-  },
-  {
-    "id": 14,
-    "name": "Naveen Reddy",
-    "location": "Kasargod, Kerala",
-    "contact": "+91 92345 67890",
-    "image": "https://randomuser.me/api/portraits/men/53.jpg"
-  },
-  {
-    "id": 15,
-    "name": "Shreya Joshi",
-    "location": "Munnar, Kerala",
-    "contact": "+91 99812 33445",
-    "image": "https://randomuser.me/api/portraits/women/63.jpg"
   }
 ]
