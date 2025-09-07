@@ -2,105 +2,105 @@
   {
     "id": 1,
     "name": "Arjun Mehta",
-    "location": "Mumbai, India",
+    "location": "Kochi, Kerala",
     "contact": "+91 98765 43210",
     "image": "https://randomuser.me/api/portraits/men/32.jpg"
   },
   {
     "id": 2,
     "name": "Priya Nair",
-    "location": "Bangalore, India",
+    "location": "Thiruvananthapuram, Kerala",
     "contact": "+91 87654 32109",
     "image": "https://randomuser.me/api/portraits/women/44.jpg"
   },
   {
     "id": 3,
     "name": "Rahul Sharma",
-    "location": "Delhi, India",
+    "location": "Kozhikode, Kerala",
     "contact": "+91 99887 76655",
     "image": "https://randomuser.me/api/portraits/men/47.jpg"
   },
   {
     "id": 4,
     "name": "Sneha Iyer",
-    "location": "Chennai, India",
+    "location": "Thrissur, Kerala",
     "contact": "+91 88990 22334",
     "image": "https://randomuser.me/api/portraits/women/65.jpg"
   },
   {
     "id": 5,
     "name": "Amit Patel",
-    "location": "Pune, India",
+    "location": "Alappuzha, Kerala",
     "contact": "+91 77665 11223",
     "image": "https://randomuser.me/api/portraits/men/54.jpg"
   },
   {
     "id": 6,
     "name": "Kiran Das",
-    "location": "Kolkata, India",
+    "location": "Palakkad, Kerala",
     "contact": "+91 98112 55667",
     "image": "https://randomuser.me/api/portraits/men/77.jpg"
   },
   {
     "id": 7,
     "name": "Anjali Verma",
-    "location": "Hyderabad, India",
+    "location": "Kollam, Kerala",
     "contact": "+91 97654 33445",
     "image": "https://randomuser.me/api/portraits/women/70.jpg"
   },
   {
     "id": 8,
     "name": "Manish Gupta",
-    "location": "Ahmedabad, India",
+    "location": "Kannur, Kerala",
     "contact": "+91 96789 22334",
     "image": "https://randomuser.me/api/portraits/men/61.jpg"
   },
   {
     "id": 9,
     "name": "Ritika Singh",
-    "location": "Lucknow, India",
+    "location": "Pathanamthitta, Kerala",
     "contact": "+91 94566 77889",
     "image": "https://randomuser.me/api/portraits/women/55.jpg"
   },
   {
     "id": 10,
     "name": "Sanjay Rao",
-    "location": "Jaipur, India",
+    "location": "Malappuram, Kerala",
     "contact": "+91 93456 66778",
     "image": "https://randomuser.me/api/portraits/men/29.jpg"
   },
   {
     "id": 11,
     "name": "Divya Menon",
-    "location": "Kochi, India",
+    "location": "Idukki, Kerala",
     "contact": "+91 91234 56789",
     "image": "https://randomuser.me/api/portraits/women/46.jpg"
   },
   {
     "id": 12,
     "name": "Vikram Chauhan",
-    "location": "Surat, India",
+    "location": "Kottayam, Kerala",
     "contact": "+91 90123 45678",
     "image": "https://randomuser.me/api/portraits/men/37.jpg"
   },
   {
     "id": 13,
     "name": "Meera Kapoor",
-    "location": "Chandigarh, India",
+    "location": "Wayanad, Kerala",
     "contact": "+91 93456 12345",
     "image": "https://randomuser.me/api/portraits/women/68.jpg"
   },
   {
     "id": 14,
     "name": "Naveen Reddy",
-    "location": "Visakhapatnam, India",
+    "location": "Kasargod, Kerala",
     "contact": "+91 92345 67890",
     "image": "https://randomuser.me/api/portraits/men/53.jpg"
   },
   {
     "id": 15,
     "name": "Shreya Joshi",
-    "location": "Nagpur, India",
+    "location": "Munnar, Kerala",
     "contact": "+91 99812 33445",
     "image": "https://randomuser.me/api/portraits/women/63.jpg"
   }
